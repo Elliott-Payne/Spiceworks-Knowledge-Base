@@ -2,7 +2,7 @@
 
 </p>
 
-<h1> Spiceworks: Knowledge Base Development for IT Troubleshooting </h1>
+<h1> Spiceworks: Knowledge Base Development to Improve Ticket Resolution  </h1>
 
 
 <p>This project aims to create a comprehensive knowledge base using Spiceworks, a free IT management software, to address common IT issues users encounter. The knowledge base will serve as a self-service portal for end-users, enabling them to resolve frequent problems independently and to resolve common IT issues without escalating to the help desk. It will include solutions for software troubleshooting, hardware issues, network connectivity problems, and security protocols.
